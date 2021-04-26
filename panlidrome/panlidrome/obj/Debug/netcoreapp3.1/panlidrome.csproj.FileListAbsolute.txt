@@ -1,0 +1,13 @@
+C:\Users\Shermaine\source\repos\panlidrome\panlidrome\bin\Debug\netcoreapp3.1\panlidrome.exe
+C:\Users\Shermaine\source\repos\panlidrome\panlidrome\bin\Debug\netcoreapp3.1\panlidrome.deps.json
+C:\Users\Shermaine\source\repos\panlidrome\panlidrome\bin\Debug\netcoreapp3.1\panlidrome.runtimeconfig.json
+C:\Users\Shermaine\source\repos\panlidrome\panlidrome\bin\Debug\netcoreapp3.1\panlidrome.runtimeconfig.dev.json
+C:\Users\Shermaine\source\repos\panlidrome\panlidrome\bin\Debug\netcoreapp3.1\panlidrome.dll
+C:\Users\Shermaine\source\repos\panlidrome\panlidrome\bin\Debug\netcoreapp3.1\panlidrome.pdb
+C:\Users\Shermaine\source\repos\panlidrome\panlidrome\obj\Debug\netcoreapp3.1\panlidrome.csprojAssemblyReference.cache
+C:\Users\Shermaine\source\repos\panlidrome\panlidrome\obj\Debug\netcoreapp3.1\panlidrome.AssemblyInfoInputs.cache
+C:\Users\Shermaine\source\repos\panlidrome\panlidrome\obj\Debug\netcoreapp3.1\panlidrome.AssemblyInfo.cs
+C:\Users\Shermaine\source\repos\panlidrome\panlidrome\obj\Debug\netcoreapp3.1\panlidrome.csproj.CoreCompileInputs.cache
+C:\Users\Shermaine\source\repos\panlidrome\panlidrome\obj\Debug\netcoreapp3.1\panlidrome.dll
+C:\Users\Shermaine\source\repos\panlidrome\panlidrome\obj\Debug\netcoreapp3.1\panlidrome.pdb
+C:\Users\Shermaine\source\repos\panlidrome\panlidrome\obj\Debug\netcoreapp3.1\panlidrome.genruntimeconfig.cache
